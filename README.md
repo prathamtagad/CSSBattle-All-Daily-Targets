@@ -46,15 +46,15 @@ This repository contains my solutions to CSSBattle daily targets, where I recrea
 ```
 CSSBattle-All-Daily-Targets/
 │
+├──BATTLES/
+│ ├── BATTLE NO.html
+│ ├── BATTLE NO.html
+│ ├── BATTLE NO.html
+│
 ├── DAILY_TARGETS/
 │ ├──DATE.html
 │ ├──DATE.html
 │ ├──DATE.html
-│
-├──BATTLES/
-│ ├── BATTLE NO.html
-│ ├── BATTLE NO.html
-│ ├── BATTLE NO.html 
 └── ...
 ```
 ---
